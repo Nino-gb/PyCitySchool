@@ -7,7 +7,7 @@ City School District need all standardize school test data for analysis, reporti
 
 ### Purpose
 
-Determinate how the new data will affect original school showcase trends and performance using a variety of program language tools to create codes to replace 9th grade math and reading scores from Thomas High School.
+Determinate how the new data will affect original school showcase trends and performance using a variety of programmming language tools to create codes to replace 9th grade math and reading scores from Thomas High School.
 
 
 Tools used to imported , merged, cleaned, transformed and modified data;
@@ -16,7 +16,7 @@ Tools used to imported , merged, cleaned, transformed and modified data;
 - Pandas library 
 - Phyton 
 - VS Code
-
+- GitHub
 
 ## Results
 
@@ -55,7 +55,7 @@ Tools used to imported , merged, cleaned, transformed and modified data;
 - Thomas High School passing math %, passing reading % and overall percentage increase and come closer to the percentages of the original School District Analysis
 - Only Thomas High School 9th grade scores were affected in this report, the other graded remain the same
 - There were not significant changes in school size , Thomas High school school size remain medium size
-- School spending by score was not affect because there were not a significant change in score percentages 
+- School spending by score was not affect because there were not significant changes in score percentages 
 
 > *Replaced District Analysis "School Summary" without Thomas High School 9th grade scores*
 ![Replaced School Summary Analysis without 9th grade](https://user-images.githubusercontent.com/110786136/188953737-9b733679-e922-43f4-b2f2-2bfd23f30c78.png)
